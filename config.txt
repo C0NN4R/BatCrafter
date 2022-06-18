@@ -1,0 +1,10 @@
+CONFIGURER LA GENERATION DU TERRAIN
+-----------------------------------
+valeur a "0" = option desactivee
+ 
+taux_generation_rivieres:5
+probabilite_biomes:10
+probabilite_mines:5
+nombre_arbres_generation:10
+nombre_fleurs_generation:15
+nombre_pierres_generation:8
